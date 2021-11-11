@@ -1,0 +1,5 @@
+Date in Gregorian: Oct 13, 2020	,	Date in Hijri: 26 Safar, 1442
+Date in Gregorian: Jun 5, 2019	,	Date in Hijri: 2 Shawwal, 1440
+Date in Gregorian: Aug 7, 2018	,	Date in Hijri: 25 Thul-Qi'dah, 1439
+Date in Gregorian: Jan 1, 2017	,	Date in Hijri: 3 Rabi' al-Thani, 1438
+Date in Gregorian: Nov 8, 2020	,	Date in Hijri: 22 Rabi' al-Awwal, 1442
